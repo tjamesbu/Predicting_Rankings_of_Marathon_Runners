@@ -1,4 +1,4 @@
-# PREDICTING RANKINGS OF MARATHON RUNNERS
+# Predicting Rankings of Marathon Runners
 
 I am including this course in my projects because it was setup as a project and competition. Students had to work individually to develop a machine learning pipeline that can accurately develop predictions.  
 
