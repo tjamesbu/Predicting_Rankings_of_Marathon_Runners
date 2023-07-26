@@ -6,4 +6,4 @@ The goal of this project was to take a set of raw marathon data, collected from 
 
 Lesson learned from this project was how easily overfitting can be induced in multiple parts of the project, how OneHotEncoders can be used to transform text data into numerical data, and how Transformed Target Regressors can be used to produce the inverse sequence of the results.
 
-Final lab can be found under the file assignment.ipynb
+Final lab can be found under test2_Dec_6_train_test.ipynb
